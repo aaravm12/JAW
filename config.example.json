@@ -1,0 +1,21 @@
+{
+  "durations": [30, 30, 30, 120],
+  "cadence_hz": 0.25,
+  "calibration_seconds": 2.0,
+  "calibration_frames": 30,
+  "min_eye_fraction": 0.15,
+  "max_eye_fraction": 0.55,
+  "max_yaw": 20.0,
+  "max_pitch": 20.0,
+  "max_roll": 15.0,
+  "scale_change": 0.15,
+  "center_change": 0.10,
+  "pose_change": 12.0,
+  "smoothing_tau": 0.08,
+  "max_gap": 0.25,
+  "max_opening_speed": 4.0,
+  "cycle_low": 0.025,
+  "cycle_high": 0.08,
+  "min_cycle_seconds": 0.5,
+  "max_cycle_seconds": 15.0
+}
